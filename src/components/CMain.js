@@ -23,19 +23,19 @@ export const Main = () => {
             <picture>
             <source
                 className='position'
-                srcSet={ImgS1}
+                srcset={ImgS1}
                 type="image/jpg"
                 media="all and (max-width:600px)"
             />
             <source
                 className='position'
-                srcSet={ImgM1}
+                srcset={ImgM1}
                 type="image/jpg"
                 media="all and (min-width:601px) and (max-width:1200px)"
             />
             <source
                 className='position'
-                srcSet={ImgL1}
+                srcset={ImgL1}
                 type="image/jpg"
                 media="all and (min-width:1201px)"
             />
@@ -52,19 +52,19 @@ export const Main = () => {
             <picture>
             <source
                 className='position'
-                srcSet={ImgS2}
+                srcset={ImgS2}
                 type="image/jpg"
                 media="all and (max-width:600px)"
             />
             <source
                 className='position'
-                srcSet={ImgM2}
+                srcset={ImgM2}
                 type="image/jpg"
                 media="all and (min-width:601px) and (max-width:1200px)"
             />
             <source
                 className='position'
-                srcSet={ImgL2}
+                srcset={ImgL2}
                 type="image/jpg"
                 media="all and (min-width:1201px)"
             />
