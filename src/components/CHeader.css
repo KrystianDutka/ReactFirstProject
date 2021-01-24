@@ -1,0 +1,18 @@
+.flex {
+    height: 500px;
+    justify-content: center;
+    align-content: center;
+}
+
+.flex2 {
+    display: flex;
+    font-size: medium;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.flex3 {
+    font-size: 20px;
+}
+
